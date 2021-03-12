@@ -3,6 +3,7 @@
 SendMode Input  ; Recommended for new scripts due to its superior speed and reliability.
 SetWorkingDir %A_ScriptDir%  ; Ensures a consistent starting directory.
 
+; Alberto Righetto 2021
 ; This scripts connects a key press on the keyboard to a (remote) Companion button
 
 ; Set Companion host/ip and HTTP port
